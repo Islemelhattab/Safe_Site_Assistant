@@ -10,7 +10,7 @@ Answers are strictly grounded in technical safety documentation with verified so
 
 ```bash
 # 1. Clone the repository and enter directory
-git clone https://github.com/your-username/safesite-assistant.git && cd safesite-assistant
+git clone https://github.com/Islemelhattab/Safe_Site_Assistant.git && cd safesite-assistant
 
 # 2. Create and activate a Python 3.10+ virtual environment
 python -m venv .venv && source .venv/bin/activate  # On Windows: .venv\Scripts\activate
