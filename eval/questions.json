@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the maximum height before a guardrail is mandatory on a scaffold?",
+    "expected_answer": "6 feet (1.8 meters)",
+    "expected_refusal": false
+  },
+  {
+    "id": 2,
+    "question": "What is the required height range for the top rail of a guardrail on a scaffold?",
+    "expected_answer": "Between 38 inches (0.97 m) and 45 inches (1.14 m) above the platform.",
+    "expected_refusal": false
+  },
+  {
+    "id": 3,
+    "question": "How much weight must scaffolding assemblies be capable of supporting?",
+    "expected_answer": "Their own weight plus 4 times the maximum intended working load.",
+    "expected_refusal": false
+  },
+  {
+    "id": 4,
+    "question": "What respiratory protection is required during concrete cutting and grinding?",
+    "expected_answer": "Half-mask respirator with P100 or FFP3 particulate filters.",
+    "expected_refusal": false
+  },
+  {
+    "id": 5,
+    "question": "What is the maximum site speed limit on temporary access roads?",
+    "expected_answer": "15 km/h (10 mph).",
+    "expected_refusal": false
+  },
+  {
+    "id": 6,
+    "question": "What must be formally submitted within 24 hours of a workplace incident?",
+    "expected_answer": "A preliminary Incident Flash Report.",
+    "expected_refusal": false
+  },
+  {
+    "id": 7,
+    "question": "What is the minimum clearance distance required for the heavy equipment slew radius exclusion zone?",
+    "expected_answer": "Minimum 1.5 meters clearance beyond the counterweight swing path.",
+    "expected_refusal": false
+  },
+  {
+    "id": 8,
+    "question": "How long must a fire watch remain on station after hot work has finished?",
+    "expected_answer": "A mandatory minimum of 60 minutes.",
+    "expected_refusal": false
+  },
+  {
+    "id": 9,
+    "question": "What is the CEO's annual salary and bonus package?",
+    "expected_answer": "I could not find this in the safety documents.",
+    "expected_refusal": true
+  },
+  {
+    "id": 10,
+    "question": "What are the rules and speed limits for operating personal golf carts on site?",
+    "expected_answer": "I could not find this in the safety documents.",
+    "expected_refusal": true
+  }
+]

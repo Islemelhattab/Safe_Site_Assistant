@@ -1,0 +1,19 @@
+# Fichier secret avec ta clé API (NE JAMAIS COMMETTER)
+.env
+
+# Environnement virtuel Python (trop lourd)
+.venv/
+venv/
+env/
+
+# Base de données vectorielle locale (se régénère avec ingest.py)
+vectorstore/
+
+# Fichiers caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Cache Streamlit
+.streamlit/
